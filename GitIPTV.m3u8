@@ -357,10 +357,10 @@ https://cdn3.pishow.tv/live/296/master.m3u8
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/YRF_Music.jpeg",YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png",SHEEMAROO BOLLYWOOD [Server-1]
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Bdcf46991a900868.jpg",SHEEMAROO BOLLYWOOD [Server-1]
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/7nT3j6X/20240816-213443.png",SHEEMAROO BOLLYWOOD [Server-2]
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Bdcf46991a900868.jpg",SHEEMAROO BOLLYWOOD [Server-2]
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/t7Gn9VtZ/abpananda.png",ABP Ananda [Server-2]
