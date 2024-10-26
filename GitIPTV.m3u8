@@ -126,7 +126,7 @@ http://tv.rongtvbdix.xyz:8880/live/Monira85/816181/1563.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aH4DVlv.png" group-title="INDIA",Star Movies HD
 http://tv.rongtvbdix.xyz:8880/live/Monira85/816181/1673.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ABP_Ananda_logo.svg/512px-ABP_Ananda_logo.svg.png" group-title="INDIA", ABP_Ananda Bangla [Server-1]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ABP_Ananda_logo.svg/512px-ABP_Ananda_logo.svg.png" group-title="INDIA", ABP Ananda Bangla [Server-1]
 https://ythls.armelin.one/channel/UCv3rFzn-GHGtqzXiaq3sWNg.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oxkkWH5.png" group-title="INDIA",Balle Balle
@@ -249,10 +249,10 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-logo="https://parspng.com/wp-content/uploads/2022/01/tvpng.parspng.com-4.png" group-title="Sports", EN Sports 2 4K
 https://amg00731-gannettcoinc-usatodaynews-plex-r45dz.amagi.tv/playlist/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Sports", RTA Sports HD 🔗🏏 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ik06kGh.png" group-title="Sports", RTA Sports HD 🔗🏏 
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7VZqMNk/download-4.png" group-title="Sports", VTC 1 HD 🏆
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5tcHSVG.png" group-title="Sports", VTC 1 HD 🏆
 https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/220px-TraceSSLogo.png",Trace Sports
