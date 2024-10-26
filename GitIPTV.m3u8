@@ -365,3 +365,27 @@ https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.imgur.com/gVoMhAl.jpg",Saga Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/frNQcGn.jpg" group-title="INDIA",Zee Bangla HD
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2180.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lPWrDnN.png" group-title="INDIA",Colors HD
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2188.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HnZV4uF.png" group-title="INDIA",ZEE CINEMA HD
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2189.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8HhXd6Y.png" group-title="INDIA",Sony Entertainment Television
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2191.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WyW31gg.png" group-title="INDIA",Star Gold HD
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2192.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1NVDQPW.png" group-title="INDIA",Sony Max HD
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2194.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Sony-max-2-in.png" group-title="INDIA",Sony Max2
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2195.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wcpT2W2.jpg" group-title="INDIA",StarPlus HD
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2196.m3u8
