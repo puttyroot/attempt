@@ -396,6 +396,9 @@ http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2178.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yRRkpBs.png" group-title="INDIA",Star Jalsha HD [Server-2]
 http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2179.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Discovery_Asia_logo.svg" group-title="INDIA",Discovery Asia
+https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Sony-max-2-in.png" group-title="INDIA",Sony Max2
 http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2195.m3u8
 
