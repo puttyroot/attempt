@@ -117,7 +117,7 @@ https://dplus.gammacdn.workers.dev/videos/98.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uq5WHHM.png" group-title="INDIA",Animal Planet
 https://dplus.gammacdn.workers.dev/videos/99.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wcpT2W2.jpg" group-title="INDIA",Star Jalsha HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wcpT2W2.jpg" group-title="INDIA",Star Jalsha HD [Server-1]
 http://tv.rongtvbdix.xyz:8880/live/Monira85/816181/1562.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y1ZSyz1.png" group-title="INDIA",Jalsha Movies HD [Server-1]
