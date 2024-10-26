@@ -410,3 +410,6 @@ http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2196.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.safaritvchannel.com/img/logo_new_small.png" group-title="INDIA",Sfari TV
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gui8Euv.png" group-title="BANGLADESH",SRK TV
+https://cdn.ncare.live/flixhls/flixsrktv.stream/playlist.m3u8
