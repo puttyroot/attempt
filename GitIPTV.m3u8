@@ -36,7 +36,10 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSiG_jQRLZUIzzn_7tu7tRwc-CifzQ14hAhw&s" group-title="Bangladesh",Ekattor [Server-1]
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/playlist.m3u8 
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/raaLUHk.png" group-title="Bangladesh",Ekattor [Server-2]
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2176.m3u8
 
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a9e0dd8a-9f03-4db5-821b-8788851ae0f2_180x180_057b61f7-0964-4dc0-95fd-741551613a6f.png" group-title="Bangladesh",Ekushey TV [Server-1]
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/playlist.m3u8 
@@ -431,9 +434,6 @@ http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2192.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1NVDQPW.png" group-title="India",Sony Max HD
 http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2194.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/raaLUHk.png" group-title="Bangladesh",Ekattor [Server-2]
-http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2176.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sQAphEr.png" group-title="India",Colors Bangla
 http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2178.m3u8
