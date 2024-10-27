@@ -413,3 +413,6 @@ https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gui8Euv.png" group-title="BANGLADESH",SRK TV
 https://cdn.ncare.live/flixhls/flixsrktv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="North Korea",Korean Central Television
+https://tv.nknews.org/tvdash/stream.mpd
