@@ -129,6 +129,9 @@ https://puttyroot.github.io/attempt/m3u8/Discovery-Science.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/1d/TLC_HD_Europa.png" group-title="Informative",TLC HD [Server-1]
 https://dplus.gammacdn.workers.dev/videos/97.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/1d/TLC_HD_Europa.png"" group-title="Informative",TLC HD[Server-2]
+https://puttyroot.github.io/attempt/m3u8/TLC.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/200px-DMAX_BLACK.svg.png" group-title="Informative",DMAX
 https://puttyroot.github.io/attempt/m3u8/DMAX.m3u8
 
@@ -140,9 +143,6 @@ https://puttyroot.github.io/attempt/m3u8/HGTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/ID_Logo_Grey.png/150px-ID_Logo_Grey.png" group-title="Informative",Investigation Discovery
 https://puttyroot.github.io/attempt/m3u8/Investigation-Discovery.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/1d/TLC_HD_Europa.png"" group-title="Informative",TLC HD[Server-2]
-https://puttyroot.github.io/attempt/m3u8/TLC.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/200px-2018_Travel_Channel_logo.svg.png" group-title="Informative",Travel Channel
 https://puttyroot.github.io/attempt/m3u8/Travel-Channel.m3u8
@@ -162,14 +162,23 @@ https://puttyroot.github.io/attempt/m3u8/Animal-Planet.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wcpT2W2.jpg" group-title="India",Star Jalsha HD [Server-1]
 http://tv.rongtvbdix.xyz:8880/live/Monira85/816181/1562.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yRRkpBs.png" group-title="India",Star Jalsha HD [Server-2]
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2179.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y1ZSyz1.png" group-title="India",Jalsha Movies HD [Server-1]
 http://tv.rongtvbdix.xyz:8880/live/Monira85/816181/1563.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y1ZSyz1.png" group-title="India",Jalsha Movies HD [Server-2]
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2187.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aH4DVlv.png" group-title="India",Star Movies HD
 http://tv.rongtvbdix.xyz:8880/live/Monira85/816181/1673.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ABP_Ananda_logo.svg/512px-ABP_Ananda_logo.svg.png" group-title="India", ABP Ananda Bangla [Server-1]
 https://ythls.armelin.one/channel/UCv3rFzn-GHGtqzXiaq3sWNg.m3u8
+
+#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/t7Gn9VtZ/abpananda.png",ABP Ananda [Server-2]
+https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oxkkWH5.png" group-title="India",Balle Balle
 https://mcncdndigital.com/balleballetv/index.m3u8
@@ -178,10 +187,7 @@ https://mcncdndigital.com/balleballetv/index.m3u8
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://parspng.com/wp-content/uploads/2022/01/tvpng.parspng.com-4.png" group-title="India",Classic Bollywood
-http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2353.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y1ZSyz1.png" group-title="India",Jalsha Movies HD [Server-2]
-http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2187.m3u8
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2353.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg?x91288" group-title="Bangladesh",Asian TV 
 https://mtlivestream.com/asian/ytlive/index.m3u8
@@ -333,8 +339,11 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Sony_Aath_new.png/300px-Sony_Aath_new.png" group-title="India", Sony Aath 
 http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2181.m3u8 
 
-#EXTINF:-1 group-title="India" tvg-logo="https://i.imgur.com/dmHgfHp.png",ENTER 10 BANGLA
+#EXTINF:-1 group-title="India" tvg-logo="https://i.imgur.com/dmHgfHp.png",ENTER 10 BANGLA [Server-1]
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dmHgfHp.png" group-title="India",ENTER 10 Bangla [Server-2]
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2177.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png",B4U MUSIC
 https://cdn2.pishow.tv/live/141/master.m3u8
@@ -402,9 +411,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 #EXTINF:-1 group-title="India" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Bdcf46991a900868.jpg",SHEEMAROO BOLLYWOOD [Server-2]
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
-#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/t7Gn9VtZ/abpananda.png",ABP Ananda [Server-2]
-https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
-
 #EXTINF:-1 group-title="India" tvg-logo="https://i.imgur.com/gVoMhAl.jpg",Saga Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
 
@@ -429,14 +435,8 @@ http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2194.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/raaLUHk.png" group-title="Bangladesh",Ekattor [Server-2]
 http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2176.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dmHgfHp.png" group-title="India",ENTER 10 Bangla [Server-2]
-http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2177.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sQAphEr.png" group-title="India",Colors Bangla
 http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2178.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yRRkpBs.png" group-title="India",Star Jalsha HD [Server-2]
-http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2179.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Discovery_Asia_logo.svg" group-title="Informative",Discovery Asia
 https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
