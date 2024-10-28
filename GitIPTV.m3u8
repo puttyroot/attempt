@@ -459,3 +459,6 @@ https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmW4q0J.png" group-title="Kids",Cartoon Network
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/200px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="Kids",NICK JR
+https://fl5.moveonjoy.com/NICK_JR/tracks-v1a1/mono.m3u8
+
