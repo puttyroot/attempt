@@ -465,3 +465,6 @@ https://fl5.moveonjoy.com/NICK_JR/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Nature_logo.png" group-title="Informative",Better Nature TV
 https://rpn.bozztv.com/betterlife/betternature/betternature/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/180px-Cinema_One_2013_logo.svg.png" group-title="Philippines",Cinema One
+https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
