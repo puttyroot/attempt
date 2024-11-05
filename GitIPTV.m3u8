@@ -93,10 +93,10 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@ekhontv
 http://tv.cloudcdn.me/live/00:1A:79:AB:E0:11/SN_1697176355/84.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FzX8OVk.png" group-title="Sports",Ten Sports HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FzX8OVk.png" group-title="Sports",Ten Sports HD [Unavailable]
 http://tv.rongtvbdix.xyz:8880/live/Monira85/816181/1553.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vLJKoVj.png" group-title="Sports",Star Sports 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vLJKoVj.png" group-title="Sports",Star Sports 1 HD [Unavailable]
 http://tv.rongtvbdix.xyz:8880/live/Monira85/816181/1551.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qhl01zx.png" group-title="Sports",PTV Sports
@@ -159,19 +159,13 @@ https://dplus.gammacdn.workers.dev/videos/99.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uq5WHHM.png" group-title="Informative",Animal Planet [Server-2]
 https://puttyroot.github.io/attempt/m3u8/Animal-Planet.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wcpT2W2.jpg" group-title="India",Star Jalsha HD [Server-1]
-http://tv.rongtvbdix.xyz:8880/live/Monira85/816181/1562.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yRRkpBs.png" group-title="India",Star Jalsha HD [Server-2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yRRkpBs.png" group-title="India",Star Jalsha HD [Unavailable]
 http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2179.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y1ZSyz1.png" group-title="India",Jalsha Movies HD [Server-1]
-http://tv.rongtvbdix.xyz:8880/live/Monira85/816181/1563.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y1ZSyz1.png" group-title="India",Jalsha Movies HD [Server-2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y1ZSyz1.png" group-title="India",Jalsha Movies HD [Unavailable]
 http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2187.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aH4DVlv.png" group-title="India",Star Movies HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aH4DVlv.png" group-title="India",Star Movies HD [Unavailable]
 http://tv.rongtvbdix.xyz:8880/live/Monira85/816181/1673.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/t7Gn9VtZ/abpananda.png",ABP Ananda
@@ -183,7 +177,7 @@ https://mcncdndigital.com/balleballetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F17QtN2.png" group-title="India",9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://parspng.com/wp-content/uploads/2022/01/tvpng.parspng.com-4.png" group-title="India",Classic Bollywood
+#EXTINF:-1 tvg-logo="https://parspng.com/wp-content/uploads/2022/01/tvpng.parspng.com-4.png" group-title="India",Classic Bollywood [Unavailable]
 http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2353.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg?x91288" group-title="Bangladesh",Asian TV 
@@ -192,7 +186,7 @@ https://mtlivestream.com/asian/ytlive/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://seeklogo.com/images/D/deepto-tv-logo-71DD610A34-seeklogo.com.png",DEEPTO TV HD 
 https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Bangladesh", Duronto TV OTT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Bangladesh", Duronto TV [Unavailable]
 http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2352.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZTg115q/Ananda-TV.png" group-title="Bangladesh",Ananda TV 
@@ -333,14 +327,11 @@ https://tdameritrade-distro.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://rongeentv.com/wp-content/uploads/elementor/thumbs/RONGEENTV-phsji8uqpdkiy9qigdcpljdec2ovfua7tur47pkxpc.png" group-title="India", RONGEEN TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Sony_Aath_new.png/300px-Sony_Aath_new.png" group-title="India", Sony Aath 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Sony_Aath_new.png/300px-Sony_Aath_new.png" group-title="India", Sony Aath [Unavailable]
 http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2181.m3u8 
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.imgur.com/dmHgfHp.png",ENTER 10 BANGLA [Server-1]
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dmHgfHp.png" group-title="India",ENTER 10 BANGLA [Server-2]
-http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2177.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png",B4U MUSIC
 https://cdn2.pishow.tv/live/141/master.m3u8
@@ -412,27 +403,24 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg0
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/frNQcGn.jpg" group-title="India",Zee Bangla HD
-http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2180.m3u8
+http://103.205.133.71/ZeeBangla/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lPWrDnN.png" group-title="India",Colors HD
-http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2188.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=160&uid=6154&deviceMac=00:1A:79:51:31:21
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HnZV4uF.png" group-title="India",ZEE CINEMA HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HnZV4uF.png" group-title="India",ZEE CINEMA HD [Unavailable]
 http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2189.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8HhXd6Y.png" group-title="India",Sony Entertainment Television
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8HhXd6Y.png" group-title="India",Sony Entertainment Television [Unavailable]
 http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2191.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WyW31gg.png" group-title="India",Star Gold HD
-http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2192.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=12358&uid=16068&deviceMac=00:1A:79:ED:10:29
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1NVDQPW.png" group-title="India",Sony Max HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1NVDQPW.png" group-title="India",Sony Max HD [Unavailable]
 http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2194.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/raaLUHk.png" group-title="Bangladesh",Ekattor [Server-2]
-http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2176.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sQAphEr.png" group-title="India",Colors Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sQAphEr.png" group-title="India",Colors Bangla [Unavailable]
 http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2178.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Discovery_Asia_logo.svg" group-title="Informative",Discovery Asia
@@ -441,11 +429,11 @@ https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IJH47fJ.png" group-title="Informative",Discover Pakistan
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Sony-max-2-in.png" group-title="India",Sony Max2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Sony-max-2-in.png" group-title="India",Sony Max2 [Unavailable]
 http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2195.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wcpT2W2.jpg" group-title="India",StarPlus HD
-http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2196.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wcpT2W2.jpg" group-title="India",Star Plus HD
+http://119.152.240.15:8001/play/a0gy/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.safaritvchannel.com/img/logo_new_small.png" group-title="Informative",Sfari TV
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/chunks.m3u8
