@@ -74,8 +74,11 @@ https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w129
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/satvs.jpg?x91288" group-title="Bangladesh",SATV 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x91288" group-title="Bangladesh",Shomoy TV 
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x91288" group-title="Bangladesh",Somoy TV [Server-1]
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x91288" group-title="Bangladesh",Somoy TV [Server-2]
+http://tv.cloudcdn.me:80/live.ts?channelId=115&uid=16068&deviceMac=00:1A:79:ED:10:29
 
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg" group-title="Bangladesh",Makkah Live 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkah.stream/playlist.m3u8 
@@ -113,8 +116,11 @@ http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://i.imgur.com/Xr0m1xZ.jpg",Sananda 
 http://54.38.79.60:2020/sananda/index.m3u8
 
-#EXTINF:-1 group-title="India" tvg-logo="https://i.imgur.com/hvnoBXA.jpg",RUPOSHI BANGLA
+#EXTINF:-1 group-title="India" tvg-logo="https://i.imgur.com/hvnoBXA.jpg",RUPOSHI BANGLA [Server-1]
 https://cdn3.pishow.tv/live/281/master.m3u8
+
+#EXTINF:-1 group-title="India" tvg-logo="https://i.imgur.com/hvnoBXA.jpg",RUPOSHI BANGLA [Server-2]
+http://tv.cloudcdn.me:80/live.ts?channelId=113&uid=16068&deviceMac=00:1A:79:ED:10:29
 
 #EXTINF:-1 group-title="India" tvg-logo="https://files.catbox.moe/33iec7.png",Amar Bangla 
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8 
@@ -177,7 +183,7 @@ https://dplus.gammacdn.workers.dev/videos/99.m3u8
 https://puttyroot.github.io/attempt/m3u8/Animal-Planet.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yRRkpBs.png" group-title="India",Star Jalsha HD
-http://103.205.133.71/StarJalshaFHD/index.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=16068&deviceMac=00:1A:79:ED:10:29
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y1ZSyz1.png" group-title="India",Jalsha Movies HD
 http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=16068&deviceMac=00:1A:79:ED:10:29
