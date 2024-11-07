@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:11
+#EXTINF:4, no desc
+http://tv.cloudcdn.me:80/live.ts?channelId=256&uid=14481&deviceMac=00:1A:79:C3:81:30
+#EXTINF:4, no desc
+http://tv.cloudcdn.me:80/live.ts?channelId=256&uid=14481&deviceMac=00:1A:79:C3:81:30
+#EXTINF:4, no desc
+http://tv.cloudcdn.me:80/live.ts?channelId=256&uid=14481&deviceMac=00:1A:79:C3:81:30
+#EXTINF:4, no desc
+http://tv.cloudcdn.me:80/live.ts?channelId=256&uid=14481&deviceMac=00:1A:79:C3:81:30
+#EXTINF:4, no desc
+http://tv.cloudcdn.me:80/live.ts?channelId=256&uid=14481&deviceMac=00:1A:79:C3:81:30
