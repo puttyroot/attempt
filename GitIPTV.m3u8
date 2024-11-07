@@ -92,7 +92,6 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@ekhontv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vu5zm5G.png" group-title="Bangladesh",Banglavision CDN
 http://tv.cloudcdn.me/live/00:1A:79:AB:E0:11/SN_1697176355/84.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FzX8OVk.png" group-title="Sports",Ten Sports HD
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
@@ -108,6 +107,21 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kkwcXRX.png" group-title="India",Disnep Channel HD
 https://starshare.live:443/live/Mohim90/Skytv90/19741.m3u8
 
+#EXTINF:-1 group-title="India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tara_TV.png",Tara Bangla Cinema 
+http://103.145.48.150:90/laosat24/taratv/index.m3u8
+
+#EXTINF:-1 group-title="India" tvg-logo="https://i.imgur.com/Xr0m1xZ.jpg",Sananda 
+http://54.38.79.60:2020/sananda/index.m3u8
+
+#EXTINF:-1 group-title="India" tvg-logo="https://i.imgur.com/hvnoBXA.jpg",RUPOSHI BANGLA
+https://cdn3.pishow.tv/live/281/master.m3u8
+
+#EXTINF:-1 group-title="India" tvg-logo="https://files.catbox.moe/33iec7.png",Amar Bangla 
+https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8 
+
+#EXTINF:-1 group-title="India" tvg-logo="https://files.catbox.moe/xbfe0e.png",Tara Bangla 
+https://server.playontv.in/TARAMUSIC/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pjmah66.png" group-title="Informative",Discovery HD Multi Audio
 https://puttyroot.github.io/attempt/m3u8/Discovery.m3u8
 
@@ -119,6 +133,9 @@ https://puttyroot.github.io/attempt/m3u8/Discovery-Kids.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DMXynW8.png" group-title="Informative",Discovery IND
 https://dplus.gammacdn.workers.dev/videos/95.m3u8
+
+#EXTINF:-1 group-title="Informative" tvg-logo="https://i.imgur.com/L3oVDM9.png",Wild Earth(BD)
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
 #EXTINF:-1 tvg-logo="https://flyclipart.com/thumbs/discovery-science-logo-1510728.png" group-title="Informative",Discovery Science [Server-1]
 https://dplus.gammacdn.workers.dev/videos/96.m3u8
@@ -182,6 +199,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg?x91288" group-title="Bangladesh",Asian TV 
 https://mtlivestream.com/asian/ytlive/index.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.imgur.com/OJjDHCf.png",global TV HD
+http://starshare.live:8080/live/Leroy123/Leroy123/4231.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://seeklogo.com/images/D/deepto-tv-logo-71DD610A34-seeklogo.com.png",DEEPTO TV HD 
 https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
@@ -303,7 +323,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-ci
 #EXTINF:-1 tvg-logo="https://www.pngmart.com/files/23/Fox-News-Logo-PNG-Pic.png" group-title="International",FOX NEWS
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png",DW News 
+#EXTINF:-1 group-title="International" tvg-logo="https://i.imgur.com/hZfJR7l.png",DW News 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dwnews.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Informative" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/10/CGTN.png",CGTN 
@@ -330,13 +350,13 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Sony_Aath_new.png/300px-Sony_Aath_new.png" group-title="India", Sony Aath
 http://tv.cloudcdn.me/live.ts?channelId=44150&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
-#EXTINF:-1 group-title="India" tvg-logo="https://i.imgur.com/dmHgfHp.png",ENTER 10 BANGLA [Server-1]
+#EXTINF:-1 group-title="India" tvg-logo="https://i.imgur.com/dmHgfHp.png",ENTER 10 BANGLA
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png",B4U MUSIC
 https://cdn2.pishow.tv/live/141/master.m3u8
 
-#EXTINF:-1 group-title="India" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png/revision/latest?cb=20210423103549",KHUSHBOO BANGLA
+#EXTINF:-1 group-title="India" tvg-logo="https://i.imgur.com/NC1duUN.png",KHUSHBOO BANGLA
 https://cdn3.pishow.tv/live/283/master.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/",B4U Movies
@@ -435,12 +455,23 @@ https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmW4q0J.png" group-title="Kids",Cartoon Network
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/200px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="Kids",NICK JR
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/izZmv5r.png",Pogo
+https://puttyroot.github.io/attempt/m3u8/POGO.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/CYuCpgu.jpg",PBS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/WPxWvGw.png",Spacetoon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/6dVVzlg.png",Zoo Moo
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OCk3lRs.png" group-title="Kids",NICK JR
 https://fl5.moveonjoy.com/NICK_JR/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Nature_logo.png" group-title="Informative",Better Nature TV
 https://rpn.bozztv.com/betterlife/betternature/betternature/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/180px-Cinema_One_2013_logo.svg.png" group-title="Philippines",Cinema One
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
