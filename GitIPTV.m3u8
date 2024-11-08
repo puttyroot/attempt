@@ -481,3 +481,220 @@ https://rpn.bozztv.com/betterlife/betternature/betternature/tracks-v1a1/mono.m3u
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/180px-Cinema_One_2013_logo.svg.png" group-title="Philippines",Cinema One
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg?x91288" group-title="BDIX",ATN Bangla 
+http://172.72.72.5:8080/25/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/atnislamictv.jpg?x91288" group-title="BDIX",ATN Islamic 
+http://172.72.72.5:8080/94/tracks-v1a1/mono.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/atn-news.jpg?x91288" group-title="BDIX",ATN News 
+http://172.72.72.5:8080/14/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e9c06234-edca-411b-bcf6-eace5c3b118a_180x180_57f3b595-85c1-4a51-a209-b26f3d492ee9.png" group-title="BDIX",Boishakhi
+http://172.72.72.5:8080/23/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/ch9-150x150.jpg?x91288" group-title="BDIX",Channel 9 
+http://172.72.72.5:8080/71/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/chi-150x150.jpg?x91288" group-title="BDIX",Channel I 
+http://172.72.72.5:8080/21/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/dbc-news.jpg?x91288" group-title="BDIX",DBC News 
+http://172.72.72.5:8080/47/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSiG_jQRLZUIzzn_7tu7tRwc-CifzQ14hAhw&s" group-title="BDIX",Ekattor
+http://172.72.72.5:8080/12/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://itcnbd.live/assets/img/Gazi TV.png" group-title="BDIX",Gazi TV
+http://172.72.72.5:8080/76/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4rRUPW-SvyissIGBlHtLEToOitnE-j-T1AA&s" group-title="BDIX",My TV 
+http://172.72.72.5:8080/54A/tracks-v1a1/mono.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/inds.png?x91288" group-title="BDIX",Independent 
+http://172.72.72.5:8080/24/tracks-v1a1/mono.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="BDIX",Jamuna TV 
+http://172.72.72.5:8080/40/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/ntveurope.jpg?x91288" group-title="BDIX",NTV 
+http://172.72.72.5:8080/43/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://itcnbd.live/assets/img/Nagorik.png" group-title="BDIX",Nagorik
+http://172.72.72.5:8080/91/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="BDIX",RTV
+http://172.72.72.5:8080/18/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/satvs.jpg?x91288" group-title="BDIX",SATV 
+http://172.72.72.5:8080/74/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x91288" group-title="BDIX",Somoy TV
+http://172.72.72.5:8080/1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://itcnbd.live/assets/img/Bangla TV HD.png" group-title="BDIX",Bangla TV 
+http://172.72.72.5:8080/27/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zCe0JdS.png" group-title="BDIX",Ekhon TV
+hhttp://172.72.72.5:8080/36/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vu5zm5G.png" group-title="BDIX",Banglavision CDN
+http://172.72.72.5:8080/19/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://parspng.com/wp-content/uploads/2022/01/tvpng.parspng.com-4.png" group-title="BDIX",A Sports HD
+http://172.72.72.5:8080/2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://parspng.com/wp-content/uploads/2022/01/tvpng.parspng.com-4.png" group-title="BDIX",Star Sports 1 HD
+http://172.72.72.5:8080/90/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://parspng.com/wp-content/uploads/2022/01/tvpng.parspng.com-4.png" group-title="BDIX",Star Sport Select 1 HD (1)
+http://172.72.72.5:8080/92/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://parspng.com/wp-content/uploads/2022/01/tvpng.parspng.com-4.png" group-title="BDIX",Star Sport Select 1 HD (2)
+http://172.72.72.5:8080/51/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://parspng.com/wp-content/uploads/2022/01/tvpng.parspng.com-4.png" group-title="BDIX",Star Sport Select 2 HD
+http://172.72.72.5:8080/52/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://parspng.com/wp-content/uploads/2022/01/tvpng.parspng.com-4.png" group-title="BDIX",Sony Sports 1 HD
+http://172.72.72.5:8080/6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://parspng.com/wp-content/uploads/2022/01/tvpng.parspng.com-4.png" group-title="BDIX",Sony Sports 2 HD
+http://172.72.72.5:8080/3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://parspng.com/wp-content/uploads/2022/01/tvpng.parspng.com-4.png" group-title="BDIX",Sony Sports 3 HD
+http://172.72.72.5:8080/7/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://parspng.com/wp-content/uploads/2022/01/tvpng.parspng.com-4.png" group-title="BDIX",Sony Sports 5 HD
+http://172.72.72.5:8080/4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qhl01zx.png" group-title="BDIX",Sports 18
+http://172.72.72.5:8080/84/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qhl01zx.png" group-title="BDIX",Dubai Sports (1)
+http://172.72.72.5:8080/41/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qhl01zx.png" group-title="BDIX",Dubai Sports (2)
+http://172.72.72.5:8080/87/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kkwcXRX.png" group-title="BDIX",&pictures HD
+http://172.72.72.5:8080/28/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kkwcXRX.png" group-title="BDIX",&TV HD
+http://172.72.72.5:8080/81/tracks-v1a1/mono.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kkwcXRX.png" group-title="BDIX",Star Plus HD
+http://172.72.72.5:8080/45/tracks-v1a1/mono.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kkwcXRX.png" group-title="BDIX",Star Gold
+http://172.72.72.5:8080/10/tracks-v1a1/mono.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kkwcXRX.png" group-title="BDIX",ZEE Cinema HD
+http://172.72.72.5:8080/17/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kkwcXRX.png" group-title="BDIX",Star Movies
+http://172.72.72.5:8080/44/tracks-v1a1/mono.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kkwcXRX.png" group-title="BDIX",Sony HD
+http://172.72.72.5:8080/16/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kkwcXRX.png" group-title="BDIX",Sony Pix HD
+http://172.72.72.5:8080/85/tracks-v1a1/mono.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kkwcXRX.png" group-title="BDIX",BBC World
+http://172.72.72.5:8080/50/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kkwcXRX.png" group-title="BDIX",Colors TV
+http://172.72.72.5:8080/59/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kkwcXRX.png" group-title="BDIX",IndiaToday
+http://172.72.72.5:8080/89/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kkwcXRX.png" group-title="BDIX",Nick
+http://172.72.72.5:8080/46/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kkwcXRX.png" group-title="BDIX",National Geographic Wild
+http://172.72.72.5:8080/86/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kkwcXRX.png" group-title="BDIX",Nat Geo HD
+http://172.72.72.5:8080/49/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kkwcXRX.png" group-title="BDIX",Travel XP HD
+http://172.72.72.5:8080/72/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kkwcXRX.png" group-title="BDIX",9XM
+http://172.72.72.5:8080/8/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kkwcXRX.png" group-title="BDIX",Sangeet Bangla
+http://172.72.72.5:8080/73/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kkwcXRX.png" group-title="BDIX",Bhojpuri Sangeet
+http://172.72.72.5:8080/62/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kkwcXRX.png" group-title="BDIX",Zoom TV
+http://172.72.72.5:8080/11/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kkwcXRX.png" group-title="BDIX",Cartoon Network
+http://172.72.72.5:8080/63/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kkwcXRX.png" group-title="BDIX",Pogo TV
+http://172.72.72.5:8080/22/tracks-v1a1/mono.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kkwcXRX.png" group-title="BDIX",Star
+http://172.72.72.5:8080/51/tracks-v1a1/mono.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kkwcXRX.png" group-title="BDIX",Aljazeera
+http://172.72.72.5:8080/35/tracks-v1a1/mono.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kkwcXRX.png" group-title="BDIX",DW TV
+http://172.72.72.5:8080/39/tracks-v1a1/mono.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kkwcXRX.png" group-title="BDIX",Channel 24
+http://172.72.72.5:8080/15/tracks-v1a1/mono.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kkwcXRX.png" group-title="BDIX",Ekushey TV
+http://172.72.72.5:8080/31/tracks-v1a1/mono.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kkwcXRX.png" group-title="BDIX",Wild
+http://172.72.72.5:8080/48/tracks-v1a1/mono.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kkwcXRX.png" group-title="BDIX",Zoom TV
+http://172.72.72.5:8080/58/tracks-v1a1/mono.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kkwcXRX.png" group-title="BDIX",Sony Max HD
+http://172.72.72.5:8080/60/tracks-v1a1/mono.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yRRkpBs.png" group-title="BDIX",Star Jalsha HD
+http://172.72.72.5:8080/65/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y1ZSyz1.png" group-title="BDIX",Jalsha Movies HD
+http://172.72.72.5:8080/68/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg?x91288" group-title="BDIX",Asian TV 
+http://172.72.72.5:8080/26/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://seeklogo.com/images/D/deepto-tv-logo-71DD610A34-seeklogo.com.png",DEEPTO TV HD 
+http://172.72.72.5:8080/77/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZTg115q/Ananda-TV.png" group-title="BDIX",Ananda TV 
+http://172.72.72.5:8080/61/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://i.postimg.cc/Gp704rZk/Background-Eraser-20240628-105643059.png",Maasranga
+http://172.72.72.5:8080/5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Sony_Aath_new.png/300px-Sony_Aath_new.png" group-title="BDIX", Sony Aath
+http://172.72.72.5:8080/20/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://i.imgur.com/dmHgfHp.png",ENTER 10 BANGLA
+http://172.72.72.5:8080/56/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/frNQcGn.jpg" group-title="BDIX",Zee Bangla HD
+http://172.72.72.5:8080/66/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/frNQcGn.jpg" group-title="BDIX",Zee Bangla Cinema
+http://172.72.72.5:8080/57/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HnZV4uF.png" group-title="BDIX",ZEE News
+http://172.72.72.5:8080/69/tracks-v1a1/mono.m3u8
