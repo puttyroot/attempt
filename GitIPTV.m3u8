@@ -489,14 +489,20 @@ http://172.72.72.5:8080/23/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/ch9-150x150.jpg?x91288" group-title="BDIX",Channel 9 
 http://172.72.72.5:8080/71/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/chi-150x150.jpg?x91288" group-title="BDIX",Channel I 
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/chi-150x150.jpg?x91288" group-title="BDIX",Channel I [S1]
 http://172.72.72.5:8080/21/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/chi-150x150.jpg?x91288" group-title="BDIX",Channel I [S2]
+http://172.19.178.39:18190/JS-TV-07/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/inds.png?x91288" group-title="BDIX",Independent 
 http://172.72.72.5:8080/24/tracks-v1a1/mono.m3u8 
 
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="BDIX",Jamuna TV 
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="BDIX",Jamuna TV [S1]
 http://172.72.72.5:8080/40/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="BDIX",Jamuna TV [S2]
+http://172.19.178.39:18190/JS-TV-03/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/ntveurope.jpg?x91288" group-title="BDIX",NTV 
 http://172.72.72.5:8080/43/tracks-v1a1/mono.m3u8
@@ -591,8 +597,14 @@ http://172.72.72.5:8080/60/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y1ZSyz1.png" group-title="BDIX",Jalsha Movies HD [S2]
 http://172.72.72.5:8080/68/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yRRkpBs.png" group-title="BDIX",Star Jalsha HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y1ZSyz1.png" group-title="BDIX",Jalsha Movies HD [S3]
+http://172.19.178.39:18190/JS-TV-06/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yRRkpBs.png" group-title="BDIX",Star Jalsha HD [S1]
 http://172.72.72.5:8080/65/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yRRkpBs.png" group-title="BDIX",Star Jalsha HD [S2]
+http://172.19.178.49:18190/SN-ST-TV-03/index.m3u8
 
 #EXTINF:-1 group-title="BDIX" tvg-logo="https://seeklogo.com/images/D/deepto-tv-logo-71DD610A34-seeklogo.com.png",DEEPTO TV HD 
 http://172.72.72.5:8080/77/tracks-v1a1/mono.m3u8
@@ -618,5 +630,11 @@ http://172.72.72.5:8080/69/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/frNQcGn.jpg" group-title="BDIX",Zee Bangla Cinema
 http://172.72.72.5:8080/57/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HnZV4uF.png" group-title="BDIX",ZEE News
-http://172.72.72.5:8080/69/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="BDIX",T Sports
+http://172.19.178.29:18190/CLOUD-TV-02/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BRxM4hW.png" group-title="BDIX",Gazi TV
+http://10.77.218.14:8082/gazi_tv/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" group-title="BDIX",BTV World 
+http://10.77.218.14:8082/btv_world/index.fmp4.m3u8
