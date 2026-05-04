@@ -2,6 +2,9 @@
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fS6nWC6.png" group-title="Bangladesh",Ekattor TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0jqlOE5.png" group-title="Bangladesh",Channel 9 HD 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 
@@ -91,3 +94,9 @@ http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MyVY194.png" group-title="Bangladesh",DBC NEWS
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pPI8ven.png" group-title="News",Al Jazeera
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uEJyWl3.png" group-title="Sports",Sports TV - 01
+https://owrcovcrpy.gpcdn.net/bpk-tv/1730/output/index.m3u8
