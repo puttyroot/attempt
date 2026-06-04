@@ -181,3 +181,39 @@ https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OtrB1KA.png" group-title="Sports",Thunder 
 https://nomawnoijl.gpcdn.net/akash/thunder/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DN9V78I.jpg" group-title="India",R Bangla 
+https://tvsen5.aynaott.com/R_Bangla/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ef7T3uL.jpg" group-title="Sports",PTV Sports 
+https://tvsen5.aynaott.com/PtvSports/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RSmL2ez.png" group-title="Sports",T Sports HD
+https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rEXjSAp.jpg" group-title="Sports",Sports First TV S-01
+https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409/variant/22100004.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rEXjSAp.jpg" group-title="Sports",Sports First TV S-02
+SF https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409/variant/22100005.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rEXjSAp.jpg" group-title="Sports",Sports First TV S-03
+https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409/variant/22100007.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cJdy5DJ.jpg" group-title="Sports",Ten 1 
+https://tvsen7.aynaott.com/tsn1/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fQ3AW9I.jpg" group-title="Sports",Ten 2 
+https://tvsen7.aynaott.com/tsn2/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/szcMSBi.jpg" group-title="Sports",Ten 3 
+https://tvsen7.aynaott.com/tsn3/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/scnq401.jpg" group-title="Movies",Goldmines Bollywood 
+https://tvsen6.aynaott.com/GoldminesBollywood/tracks-a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRul2qA.png" group-title="Kids",Cartoon Network 
+https://tvsen5.aynaott.com/cartoonnetwork/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/is3D1fh.png" group-title="Informative",National Geographic 
+https://tvsen6.aynaott.com/natgeo/tracks-v1a1/mono.ts.m3u8
