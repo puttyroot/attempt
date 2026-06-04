@@ -195,9 +195,6 @@ https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
 https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409/variant/22100004.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rEXjSAp.jpg" group-title="Sports",Sports First TV S-02
-SF https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409/variant/22100005.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rEXjSAp.jpg" group-title="Sports",Sports First TV S-03
 https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409/variant/22100007.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cJdy5DJ.jpg" group-title="Sports",Ten 1 
