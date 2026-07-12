@@ -40,6 +40,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x91288" group-title="Bangladesh",Somoy TV - S2
 https://s1.itcnbd.live/somoy/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x91288" group-title="Bangladesh",Somoy TV - S3
+https://s1.itcnbd.live/somoy/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vu5zm5G.png" group-title="Bangladesh",Banglavision CDN
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
